@@ -1,6 +1,6 @@
-# nsimon
 
-### Hi, I'm Neil!
+### Hi, I'm Neil.
+
 **DevOps Engineer | Azure | Kubernetes | Bash Automation**
 
 I build automation tools to make cloud infrastructure faster, easier, and more secure.  
