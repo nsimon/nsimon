@@ -9,7 +9,7 @@ I'm passionate about problem-solving, scripting, and making DevOps workflows eff
 
 I'm currently looking for DevOps contract work, full-time opportunities, or collaborations.  
 
-Check out my [Azure Automation Scripts](https://github.com/azure-k8s-bash-toolkit).  
-
 Connect with me on [LinkedIn](https://www.linkedin.com/in/neilrsimon).  
+
+<!-- Check out my [Azure Automation Scripts](https://github.com/azure-k8s-bash-toolkit).  -->
 
