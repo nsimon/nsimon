@@ -1,5 +1,5 @@
 
-### Hi, I'm Neil.
+### Hi, I'm Neil!
 
 **DevOps Engineer | Azure | Kubernetes | Bash Automation**
 
@@ -9,7 +9,7 @@ I'm passionate about problem-solving, scripting, and making DevOps workflows eff
 
 I'm currently looking for DevOps contract work, full-time opportunities, or collaborations.  
 
-Connect with me on <a href="https://www.linkedin.com/in/neilrsimon" style="text-decoration: none;">LinkedIn</a>
+Connect with me: <a href="https://www.linkedin.com/in/neilrsimon" style="text-decoration: none;">LinkedIn</a>
 
-Check out my repo: <a href="https://github.com/azure-k8s-bash-toolkit" style="text-decoration: none;">azure-k8s-bash-toolkit</a>
+Check out my cloud automation repo: <a href="https://github.com/azure-k8s-bash-toolkit" style="text-decoration: none;">azure-k8s-bash-toolkit</a>
 
