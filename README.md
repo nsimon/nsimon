@@ -9,7 +9,7 @@ I'm passionate about problem-solving, scripting, and making DevOps workflows eff
 
 I'm currently looking for DevOps contract work, full-time opportunities, or collaborations.  
 
-Connect with me: <a href="https://www.linkedin.com/in/neilrsimon" target="_blank" style="text-decoration: none;">LinkedIn</a>
+Connect with me: <a href="https://www.linkedin.com/in/neilrsimon" target="_blank" rel="noopener noreferrer" style="text-decoration: none;" onclick="window.open(this.href, '_blank'); return false;">LinkedIn</a>
 
-Check out my cloud automation repo: <a href="https://github.com/nsimon/azure-k8s-bash-toolkit" target="_blank" style="text-decoration: none;">azure-k8s-bash-toolkit</a>
+Check out my cloud automation repo: <a href="https://github.com/nsimon/azure-k8s-bash-toolkit" target="_blank" rel="noopener noreferrer" style="text-decoration: none;" onclick="window.open(this.href, '_blank'); return false;">azure-k8s-bash-toolkit</a>
 
