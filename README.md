@@ -11,5 +11,5 @@ I'm currently looking for DevOps contract work, full-time opportunities, or coll
 
 Connect with me: <a href="https://www.linkedin.com/in/neilrsimon" style="text-decoration: none;">LinkedIn</a>
 
-Check out my cloud automation repo: <a href="https://github.com/azure-k8s-bash-toolkit" style="text-decoration: none;">azure-k8s-bash-toolkit</a>
+Check out my cloud automation repo: <a href="https://github.com/nsimon/azure-k8s-bash-toolkit" style="text-decoration: none;">azure-k8s-bash-toolkit</a>
 
